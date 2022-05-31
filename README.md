@@ -5,7 +5,6 @@
 - 🔍 Currently looking for a job as a React developer.
 - Middle frontend developer.
 - Mainly using TypeScript + React.JS.
-- Love beautiful and convenient websites.
 - Prefer CSS-in-JS.
 
 ### 🔨 Skills
