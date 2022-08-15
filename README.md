@@ -2,7 +2,7 @@
 
 ### 👀 About me:
 
-- 🔍 Currently looking for a job as a React developer.
+- Currently looking for a job as a React developer.
 - Middle frontend developer.
 - Mainly using TypeScript + React.JS.
 - Prefer CSS-in-JS.
