@@ -29,6 +29,7 @@
 ### 🌱 My latest projects
 
 - https://github.com/lunatic-cat/react-timeline-github-activity-v2
+- https://github.com/Afgan0r/sg-server-status-discord-bot
 - https://github.com/Afgan0r/sg-replay-parser
 
 ### 📫 How to reach me: 
