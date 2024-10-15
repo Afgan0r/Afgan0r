@@ -3,7 +3,7 @@
 ### 👀 About me:
 
 - Currently working at [Estesis](https://estesis.tech) as a React developer.
-- Middle frontend developer.
+- Middle+ (Senior???) frontend developer.
 - Mainly using TypeScript + React.JS.
 - Prefer CSS-in-JS.
 
